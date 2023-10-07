@@ -1,0 +1,14 @@
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\bin\Debug\net7.0\batalhaNaval.exe
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\bin\Debug\net7.0\batalhaNaval.deps.json
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\bin\Debug\net7.0\batalhaNaval.runtimeconfig.json
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\bin\Debug\net7.0\batalhaNaval.dll
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\bin\Debug\net7.0\batalhaNaval.pdb
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.AssemblyInfoInputs.cache
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.AssemblyInfo.cs
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.dll
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\refint\batalhaNaval.dll
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.pdb
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\batalhaNaval.genruntimeconfig.cache
+C:\Users\loyst3r\Documents\facul\semestre02\tecsProg\aula11\batalhaNaval\obj\Debug\net7.0\ref\batalhaNaval.dll
